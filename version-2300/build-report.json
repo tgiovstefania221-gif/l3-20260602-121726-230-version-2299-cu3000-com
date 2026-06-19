@@ -1,0 +1,21 @@
+{
+  "records_parsed": 1980,
+  "movies_generated": 1980,
+  "detail_pages": 1980,
+  "category_pages": 10,
+  "category_counts": {
+    "国产剧场": 198,
+    "港台经典": 198,
+    "日韩精选": 198,
+    "欧美影剧": 198,
+    "悬疑惊悚": 198,
+    "古装武侠": 198,
+    "科幻奇幻": 198,
+    "都市爱情": 198,
+    "喜剧动画": 198,
+    "纪录综艺": 198
+  },
+  "video_sources_found": 20,
+  "html_pages_total": 1994,
+  "logo_text": "2026剧集大全"
+}
